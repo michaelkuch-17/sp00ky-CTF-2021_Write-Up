@@ -1,5 +1,4 @@
 ## Known Information
-### Disclaimer! Unintended Solution Found - proper solution tbf
 ##### username: user666
 ##### password: sp00kysandbox
 ---
