@@ -1,1 +1,1 @@
-
+This cypher is a viginere cypher which is a polyalphabetic substitution similar to a ceaser cypher. It woyld be realitively hard to find the key to decrypt using frequency analysis because the string is short with few repeated words. darkness the name of the challange was the first word in the cypher this could have been used to get they key, which was "candy" this string is also found in the challange description.
