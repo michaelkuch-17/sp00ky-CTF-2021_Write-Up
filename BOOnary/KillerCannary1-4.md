@@ -1,3 +1,11 @@
+[Full writeup on blog](https://nicholaskrabbenhoft.com/Sp00kyCTF-Write-ups-Killer-Canary-1-4/)
+
+
+
+
+
+
+
 ## Quick note:
 
 I hope everyone had fun with these challenges. I know they were a ton of fun to make and help you all work through them. I love talking about all of this stuff so if anyone wants to ask me questions about how they work feel free to shoot me a message on slack, discord, or on github (if that exists)
